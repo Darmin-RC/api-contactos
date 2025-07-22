@@ -21,4 +21,4 @@ npm i
 ```
 
 > [!IMPORTANT]  
-> Profesor, subí el `.env` porque hace falta para conectar la base de datos, decir que le token es válido solo por 30 días.
+> Profesor, subí el `.env` porque hace falta para que funcione correctamente la conexión la base de datos, decir que el token es válido solo por 30 días.
