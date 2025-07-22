@@ -1,13 +1,13 @@
 # API de Agenda de Contactos en Express y Node JS
 
-**Autor:** Darmin Reyes  
+**Realizado por:** Darmin Reyes  
 **Matrícula:** 2024-0170
 
 ---
 
 ## Instalación
 
-Hola profe. Ejecute el siguiente comando para instalar las dependencias:
+Qlok profe. Ejecute el siguiente comando para instalar las dependencias:
 
 ```bash
 npm install
